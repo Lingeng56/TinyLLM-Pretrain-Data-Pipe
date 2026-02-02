@@ -10,7 +10,7 @@
 
 ## Guidance 索引
 - [ ] 00 工程骨架与标准：`memory_bank/todo/00_工程骨架与标准.MD`
-- [ ] 01 多源采集与融合：`memory_bank/todo/01_多源采集与融合.MD`
+- [x] 01 多源采集与融合：`memory_bank/todo/01_多源采集与融合.MD`（已校验通过）
 - [ ] 02 清洗与标准化：`memory_bank/todo/02_清洗与标准化.MD`
 - [ ] 03 质量过滤：`memory_bank/todo/03_质量过滤.MD`
 - [ ] 04 版本管理与可追溯：`memory_bank/todo/04_版本管理与可追溯.MD`
